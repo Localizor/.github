@@ -10,7 +10,7 @@
 
 ### 👾 Welcome
 
-[Localizor](https://www.localizor.com/) is a simple, frictionless and developer-friendly localization software built for independnent game devs, studios and publishers. We aim to provide the best place for game devs to communicate, coordinate, track and ship their translations. This GitHub organization contains all repos that are officially maintained by us.
+[Localizor](https://www.localizor.com/) is a simple, frictionless and developer-friendly localization software built for independent game devs, studios and publishers. We aim to provide the best place for game devs to communicate, coordinate, track and ship their translations. This GitHub organization contains all repos that are officially maintained by us.
 
 ### 🕹️ Contributing
 
